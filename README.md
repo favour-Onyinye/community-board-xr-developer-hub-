@@ -44,7 +44,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src="public/Project 1 Walkthrough.mov" width="800" alt="XR Developer Hub walkthrough">
+<img src="public/Project 1 Walkthrough.gif" width="800" alt="XR Developer Hub walkthrough">
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
